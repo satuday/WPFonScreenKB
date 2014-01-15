@@ -1,0 +1,19 @@
+c:\users\felix\Desktop\My Projects\WPF Onscreen Keyboard\WPF Onscreen Keyboard\obj\Debug\ResolveAssemblyReference.cache
+c:\users\felix\Desktop\My Projects\WPF Onscreen Keyboard\WPF Onscreen Keyboard\obj\Debug\WPF Onscreen Keyboard_MarkupCompile.cache
+c:\users\felix\Desktop\My Projects\WPF Onscreen Keyboard\WPF Onscreen Keyboard\obj\Debug\BensOnScreenKeyboard.baml
+c:\users\felix\Desktop\My Projects\WPF Onscreen Keyboard\WPF Onscreen Keyboard\obj\Debug\BensOnScreenKeyboard.g.cs
+c:\users\felix\Desktop\My Projects\WPF Onscreen Keyboard\WPF Onscreen Keyboard\obj\Debug\WPF Onscreen Keyboard.dll
+c:\users\felix\Desktop\My Projects\WPF Onscreen Keyboard\WPF Onscreen Keyboard\obj\Debug\WPF Onscreen Keyboard.pdb
+c:\users\felix\Desktop\My Projects\WPF Onscreen Keyboard\WPF Onscreen Keyboard\bin\Debug\WPF Onscreen Keyboard.dll
+c:\users\felix\Desktop\My Projects\WPF Onscreen Keyboard\WPF Onscreen Keyboard\bin\Debug\WPF Onscreen Keyboard.pdb
+c:\users\felix\Desktop\My Projects\WPF Onscreen Keyboard\WPF Onscreen Keyboard\obj\Debug\WPF Onscreen Keyboard.g.resources
+c:\users\felix\Desktop\My Projects\WPF Onscreen Keyboard\WPF Onscreen Keyboard\obj\Debug\WPF_Onscreen_Keyboard.Properties.Resources.resources
+c:\users\felix\Desktop\My Projects\WPF Onscreen Keyboard\WPF Onscreen Keyboard\obj\Debug\GenerateResource.read.1.tlog
+c:\users\felix\Desktop\My Projects\WPF Onscreen Keyboard\WPF Onscreen Keyboard\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Felix\Desktop\My Projects\WPF Onscreen Keyboard\WPF Onscreen Keyboard\obj\Debug\BensOnScreenKeyboardWindow.baml
+C:\Users\Felix\Desktop\My Projects\WPF Onscreen Keyboard\WPF Onscreen Keyboard\obj\Debug\Skins\blackSkin.baml
+C:\Users\Felix\Desktop\My Projects\WPF Onscreen Keyboard\WPF Onscreen Keyboard\obj\Debug\Skins\blueSkin.baml
+C:\Users\Felix\Desktop\My Projects\WPF Onscreen Keyboard\WPF Onscreen Keyboard\obj\Debug\Skins\normalSkin.baml
+C:\Users\Felix\Desktop\My Projects\WPF Onscreen Keyboard\WPF Onscreen Keyboard\obj\Debug\BensOnScreenKeyboardWindow.g.cs
+C:\Users\Felix\Desktop\My Projects\WPF Onscreen Keyboard\WPF Onscreen Keyboard\obj\Debug\App.baml
+C:\Users\Felix\Desktop\My Projects\WPF Onscreen Keyboard\WPF Onscreen Keyboard\obj\Debug\App.g.cs

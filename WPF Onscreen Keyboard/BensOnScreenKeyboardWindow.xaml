@@ -1,0 +1,22 @@
+﻿<Window x:Class="BensOSK.BensOnScreenKeyboardWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="SingerOnScreenKeyboard" Height="230" MinWidth="300" Topmost="True" Visibility="Visible" WindowStyle="ToolWindow" Initialized="Window_Initialized" Focusable="False" ShowInTaskbar="False">
+    <Grid Name="keyGrid">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="100*"/>
+            <RowDefinition Height="25"/>
+        </Grid.RowDefinitions>
+        <Grid Name="skinControlGrid" Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="25*"/>
+                <ColumnDefinition Width="25*"/>
+                <ColumnDefinition Width="25*"/>
+            </Grid.ColumnDefinitions>
+            <Button Name="normalButton" Content="Normal" CommandParameter="normalSkin" Grid.Column="0" Click="normalButton_Click" />
+            <Button Name="blackButton" Content="Black" CommandParameter="blackSkin" Grid.Column="1" Click="blackButton_Click" />
+            <Button Name="blueButton" Content="Blue" CommandParameter="blueSkin" Grid.Column="2" Click="blueButton_Click" />
+        </Grid>
+        
+    </Grid>
+</Window>
